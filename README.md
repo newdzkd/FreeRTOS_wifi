@@ -1,2 +1,2 @@
 # FreeRTOS_wifi
-hi boys
+How to delete the files?
